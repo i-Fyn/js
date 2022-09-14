@@ -1,4 +1,4 @@
-//名称：上汽荣威
+//名称：科勒优选小程序
 //环境变量：KLYX_DATA
 //变量格式：openid@activeId
 //抓包：kohler-mini.brandsh.cn
